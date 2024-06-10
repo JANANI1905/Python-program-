@@ -1,0 +1,11 @@
+Python program to print each fruit in a list of fruits using a loop:
+
+fruits = ["Apple", "Banana", "Cherry"]
+for fruit in fruits:
+    print(fruit)
+
+Sample output:
+
+Apple
+Banana
+Cherry
